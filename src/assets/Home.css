@@ -1,0 +1,15 @@
+ul{
+    list-style-type: none ;
+    display: flex;
+    gap : 30px;
+    background-color: rgb(241, 230, 230);
+    color: rgb(3, 3, 3);
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+.Link
+
+{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
